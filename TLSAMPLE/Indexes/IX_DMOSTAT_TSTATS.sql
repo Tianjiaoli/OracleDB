@@ -1,0 +1,1 @@
+CREATE INDEX tlsample.ix_dmostat_tstats ON tlsample.dmostat_tstats(runid,ruleid);
